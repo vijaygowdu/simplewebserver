@@ -55,10 +55,11 @@ httpd.serve_forever()
 
 ## OUTPUT:
 ## serveroutput
-![Alt text](<snmp/Screenshot 2023-11-21 135158.png>)
+![output](./serveroutput.png)
 
 ## clientoutput
-![Alt text](<snmp/Screenshot 2023-11-21 135227.png>)
+![output](./sclientoutput.png)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
